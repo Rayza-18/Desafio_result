@@ -27,8 +27,8 @@ Bônus: Usar os dados JSON locais para preencher dinamicamente o conteúdo.( CON
 
 
 # Links
-URL da solução: 
-URL do site ao vivo: 
+###### URL da solução: https://www.frontendmentor.io/solutions/desafioresult-Xy8Z_yPN2u
+###### URL do site ao vivo: https://desafio-result.vercel.app/
 
 # Meu processo
 Construído com
