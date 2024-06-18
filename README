@@ -1,4 +1,4 @@
-           Frontend Mentor - Results summary component solution
+           Frontend Mentor - Results summary component solutionf
 Esta é uma solução para o Results summary component challenge no Frontend Mentor. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 Índice
@@ -39,7 +39,9 @@ Styled Components - Para estilos
 O que aprendi:
  Deixa com efeito gradient e suas direções
 ------------------------------
+'''
  background: linear-gradient(to bottom, hsl(256, 72%, 46%, 1),hsl(241, 81%, 54%));
+'''
 -------------------------------------
 usar hsl para cores
 -------------------------------------
